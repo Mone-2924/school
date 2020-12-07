@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+li{
+    list-style: none;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 100px;
+    align-items: center;
+    color: #000;
+    /* наву можно не давать класс потому-что нав у нас 
+    встречается всего лишь один раз(во всех сайтах встречается 1 раз) кака помним нам это у нас меню*/
+}
+.logo img{
+    height: 60px;
+}
+.menu{
+    display: flex;
+}
+.menu li{
+   padding: 0px 30px;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+}
+.info{
+    padding-top: 45px;
+}
+.text{
+    color: #112A4E;
+}
+.text h1{
+    font-size: 145px;
+}
+.text h2{
+    font-size: 50px;
+}
+.main-img img{
+    width: 506px;
+}
+.button {
+    margin-top: 50px;
+}
+.button a{
+    padding: 15px 100px;
+    background-color: #D52023;
+    border-radius: 100px;
+    color: #fff;
+    font-size: 20px;
+}

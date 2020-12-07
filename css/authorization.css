@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+input{
+    outline: none;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Syne Tactile', cursive;
+}
+.wrapper{
+    background-image: url(../img/image\ 8.png);
+    background-size: 100%;
+    padding-bottom: 100px;
+}
+.wrapper h1{
+    text-transform: uppercase;
+    color: #b14844;
+    text-align: center;
+    letter-spacing: 40px;
+    padding-top: 70px;
+}
+.block{
+    background-color: rgba(0, 0, 0, 0.582);
+    width: 800px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+.inputs{
+    padding: 50px;   
+}
+.inputs input{
+    display: flex;
+    width: 700px;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.438);
+    color: #fff;
+    padding-left: 20px;
+    margin-top: 20px;
+    border: none;
+}
+.button a{
+    padding: 20px 30px ;
+    background-color: #fff;
+    color: #b14844;
+}
+.button{
+    width: 200px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
